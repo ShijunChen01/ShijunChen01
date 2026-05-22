@@ -3,3 +3,4 @@
 - 🔬 Research interests: Data Mining and Time Series Forecasting
 - 💬 Always happy to connect and exchange ideas on research, technology, and life
 - 🌱 Hobbies: tennis, cycling, hiking and exploring new technologies
+- 📫 Email: [sjchen_mail@163.com](mailto:sjchen_mail@163.com)
